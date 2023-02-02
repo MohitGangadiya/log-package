@@ -1,0 +1,9 @@
+{
+  "name": "log-package",
+  "version": "1.0.0",
+  "description": "Logger Package",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mohit Gangadiya",
+  "license": "ISC"
+}
