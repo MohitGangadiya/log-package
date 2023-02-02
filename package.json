@@ -1,9 +1,17 @@
 {
-  "name": "log-package",
+  "name": "@mohit-gangadiya/log-package",
   "version": "1.0.0",
   "description": "Logger Package",
   "main": "index.js",
   "scripts": {},
   "author": "Mohit Gangadiya",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitGangadiya/log-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MohitGangadiya/log-package/issues"
+  },
+  "homepage": "https://github.com/MohitGangadiya/log-package#readme"
 }
